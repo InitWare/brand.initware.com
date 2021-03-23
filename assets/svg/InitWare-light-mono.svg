@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300"
+   height="200"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="InitWare-light-mono.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:export-filename="Z:\Projects\systemd-stable\brand.initware.io\assets\png\InitWare-light.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="3.4733333"
+     inkscape:cx="159.32625"
+     inkscape:cy="100"
+     inkscape:window-x="892"
+     inkscape:window-y="159"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <g
+     transform="translate(60 -831.61)"
+     id="g12">
+    <path
+       fill="#fff"
+       d="M-60 831.611h300v200H-60z"
+       id="path2" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.1138px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0.635235px;word-spacing:0px;text-anchor:start;fill:#141314;fill-opacity:1;stroke:none;stroke-width:0.794038"
+     x="94.320984"
+     y="113.45146"
+     id="text992"><tspan
+       sodipodi:role="line"
+       id="tspan990"
+       x="94.320984"
+       y="113.45146"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.1138px;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#141314;fill-opacity:1;stroke-width:0.794038">InitWare</tspan></text>
+  <rect
+     id="rect144"
+     width="198.98294"
+     height="47.384491"
+     x="50.50853"
+     y="76.307755"
+     style="fill:none;stroke:#141314;stroke-width:3.82401;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     style="vector-effect:none;fill:none;fill-opacity:1;stroke:#141314;stroke-width:3.17616;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="circle1562"
+     cx="74.201065"
+     cy="100.00041"
+     r="15.880819" />
+  <g
+     id="g83"
+     transform="matrix(0.26970889,0,0,0.24370569,-531.81596,-728.10879)"
+     style="stroke-width:0.499998;fill:#141314;fill-opacity:1">
+    <path
+       d="m 2251.8305,3386.6467 h -9.7993 v -41.7842 h 9.7993 z m 34.2959,10.4454 c 0,23.0559 -17.5794,41.7828 -39.1957,41.7828 -21.6171,0 -39.1966,-18.7269 -39.1966,-41.7828 0,-17.4634 10.1823,-32.2562 24.4974,-38.4788 v 11.549 c -8.7551,5.4262 -14.6984,15.3825 -14.6984,26.9298 0,17.2811 13.187,31.3385 29.3972,31.3385 16.2115,0 29.3966,-14.0574 29.3966,-31.3385 0,-11.5274 -5.9526,-21.5036 -14.6976,-26.9298 v -11.549 c 14.316,6.2229 24.4971,21.0154 24.4971,38.4788 z"
+       id="path4184"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsssccsssccs"
+       style="fill:#141314;fill-opacity:1;stroke:#ffffff;stroke-width:0.117805;stroke-opacity:1" />
+  </g>
+</svg>
