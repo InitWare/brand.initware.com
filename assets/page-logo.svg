@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="270"
    height="75"
    viewBox="0 0 270 75.000002"
    version="1.1"
    id="svg19258"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="page-logo.svg"
-   inkscape:export-filename="Z:\Projects\systemd-stable\brand.initware.io\assets\page-logo.png"
+   inkscape:export-filename="/ws/Projects/InitWare/brand.initware.com/assets/page-logo-bg.png"
    inkscape:export-xdpi="143.64444"
-   inkscape:export-ydpi="143.64444">
+   inkscape:export-ydpi="143.64444"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs19252" />
   <sodipodi:namedview
@@ -26,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="100.96545"
-     inkscape:cy="19.553153"
+     inkscape:zoom="1.979899"
+     inkscape:cx="44.194174"
+     inkscape:cy="58.336309"
      inkscape:document-units="px"
      inkscape:current-layer="text992"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="892"
-     inkscape:window-y="159"
+     inkscape:window-y="166"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="0"
@@ -44,7 +44,8 @@
      fit-margin-bottom="0"
      inkscape:document-rotation="0"
      showguides="false"
-     scale-x="1.3">
+     scale-x="1.3"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid19822"
@@ -59,7 +60,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -72,6 +72,13 @@
        aria-label="InitWare"
        id="text992"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.8582px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Heebo Bold';text-align:start;letter-spacing:0.830978px;word-spacing:0px;text-anchor:start;fill:#141314;fill-opacity:1;stroke:none;stroke-width:1.03871">
+      <rect
+         style="fill:#ffffff;stroke-width:2.16181"
+         id="rect859"
+         width="270"
+         height="75"
+         x="60"
+         y="1082.5197" />
       <path
          d="m 133.33831,1137.6161 h -7.64428 V 1102.17 h 7.64428 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.8582px;font-family:Heebo;-inkscape-font-specification:'Heebo Bold';fill:#141314;fill-opacity:1;stroke-width:1.03871"
